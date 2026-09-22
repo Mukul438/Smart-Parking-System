@@ -1,16 +1,63 @@
-# React + Vite
+# Smart Parking System 🚗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Smart Parking System dashboard built using React.js
+that allows users to manage parking slots, track vehicle occupancy,
+and search for parked vehicles.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Smart Parking System](https://mukul438.github.io/Smart-Parking-System/)
 
-## React Compiler
+## 📌 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[Smart Parking System](https://github.com/Mukul438/Smart-Parking-System)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- View parking slot availability in real time (within the app)
+- Book and release parking slots
+- Enter and validate vehicle registration numbers
+- Search parked vehicles by vehicle number
+- View parking occupancy statistics
+- Responsive dashboard interface
+- Dynamic updates to parking status
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
+
+## 💻 Run Locally
+
+### 1. Clone the repository
+
+git clone https://github.com/Mukul438/Smart-Parking-System.git
+
+### 2. Navigate to the project directory
+
+cd Smart-Parking-System
+
+### 3. Install dependencies
+
+npm install
+
+### 4. Start the development server
+
+npm run dev
+
+## 📈 Future Improvements
+
+- Integrate a Node.js and Express backend
+- Store parking and vehicle data in a database
+- Add user authentication
+- Build an admin dashboard
+
+## 👨‍💻 Author
+
+Mukul Sipolya
+
+GitHub: https://github.com/Mukul438
